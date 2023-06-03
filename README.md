@@ -12,3 +12,9 @@ clone into
 ```
 /var/www/html
 ```
+
+Firewall configuration
+```
+sudo ufw allow 'Apache'
+sudo ufw status
+```
