@@ -17,4 +17,10 @@ Firewall configuration
 ```
 sudo ufw allow 'Apache'
 sudo ufw status
+sudo ufw allow http
+```
+
+Enable ufw
+```
+sudo ufw enable
 ```
