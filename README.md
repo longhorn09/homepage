@@ -3,4 +3,6 @@ source code for normstorm.com
 
 to install apache
 
-```sudo apt install apache2```
+```
+sudo apt install apache2
+```
