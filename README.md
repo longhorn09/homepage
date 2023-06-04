@@ -24,3 +24,13 @@ Enable ufw
 ```
 sudo ufw enable
 ```
+
+Set home page directory in Apache
+```
+sudo vim /etc/apache2/sites-enabled/000-default.conf
+```
+
+Restart Apache
+```
+sudo systemctl restart apache2
+```
